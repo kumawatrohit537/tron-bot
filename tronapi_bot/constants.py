@@ -5,8 +5,8 @@
 # --------------------------------------------------------------------
 
 # To work with telegram bot
-BOT_NAME = ""
-BOT_TOKEN = ""
+BOT_NAME = "Tron_Tipping_Bot"
+BOT_TOKEN = "1953859539:AAHF8U0TyEfqKufdsNFmAW5racwHLVr8dcE"
 
 # To work with tronapi
 TRON_FULL_NODE = "https://api.trongrid.io"
